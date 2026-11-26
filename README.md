@@ -10,6 +10,18 @@
 
 [Watch the Project Demo](https://drive.google.com/file/d/1LvyYMzRYp2s_HzOwiVqHWmexpEAaCQFl/view?usp=sharing)
 
+## TEAM CONTRIBUTION 
+1	Chetna	: ai/, backend/	
+2	Patrali	: data/, backend/	
+3	Anshu	: pipelines/, data/	
+4	Kalpesh	: vector_database/
+5	Rehan	: frontend/	
+6	Apoorva	: tests/	
+
+
+
+
+
 
 An AI-powered educational analytics platform that helps educators
 identify student learning difficulties, investigate supporting
