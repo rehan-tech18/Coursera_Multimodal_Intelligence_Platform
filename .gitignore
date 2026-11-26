@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+data/reviews.db
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
