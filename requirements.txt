@@ -1,0 +1,13 @@
+streamlit
+pandas
+opencv-python-headless
+google-genai
+python-dotenv
+chromadb
+sentence-transformers
+pymupdf
+python-pptx
+faster-whisper
+av==18.1.0
+fastapi
+uvicorn
