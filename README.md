@@ -6,6 +6,11 @@
 [Open Coursera Multimodal Intelligence Platform](https://courseramultimodalintelligenceplatform-tukfbfojmfkqpxjjq5xcp4.streamlit.app/)
 
 
+## Project Demonstration Video
+
+[Watch the Project Demo](https://drive.google.com/file/d/1LvyYMzRYp2s_HzOwiVqHWmexpEAaCQFl/view?usp=sharing)
+
+
 An AI-powered educational analytics platform that helps educators
 identify student learning difficulties, investigate supporting
 course evidence, and review AI-generated teaching recommendations.
