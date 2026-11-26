@@ -6,27 +6,6 @@
 [Open Coursera Multimodal Intelligence Platform](https://courseramultimodalintelligenceplatform-tukfbfojmfkqpxjjq5xcp4.streamlit.app/)
 
 
-
-## Application Screenshots
-
-### Learning Analytics Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Unified Educator Assistant
-![Educator Assistant](screenshots/educator_assistant.png)
-
-### AI Generated Insights
-![AI Generated Insights](screenshots/ai_generated_insights.png)
-
-
-
-
-
-
-
-
-
-
 An AI-powered educational analytics platform that helps educators
 identify student learning difficulties, investigate supporting
 course evidence, and review AI-generated teaching recommendations.
