@@ -1,0 +1,29 @@
+[
+  {
+    "video_id": "PY101_V01",
+    "frame_file": "PY101_V01_frame_00000.jpg",
+    "timestamp_seconds": 0,
+    "topic_names": [],
+    "description": "1. **What is visibly shown?**  \n   An Integrated Development Environment (IDE), specifically PyCharm, with a dark theme. The main editing area displays a blank file named `main.py` inside a project folder titled `learn_python_5`.\n\n2. **What Python code or concepts can be identified?**  \n   No code is written yet; the editor is completely empty. The status bar at the bottom indicates Python version 3.8 is selected.\n\n3. **Is any execution output or error visible?**  \n   No execution output, terminal messages, or errors are visible.\n\n4. **What might be difficult for a beginner?**  \n   A beginner might find navigating the empty IDE interface challenging, such as understanding how to run code using the run buttons or where to type when starting a new file.",
+    "model": "gemini-3.5-flash-lite",
+    "status": "success"
+  },
+  {
+    "video_id": "PY101_V01",
+    "frame_file": "PY101_V01_frame_00010.jpg",
+    "timestamp_seconds": 10,
+    "topic_names": [],
+    "description": "1. **What is visibly shown?**\n   - An Integrated Development Environment (IDE), specifically PyCharm (indicated by the project name `learn_python_5` and layout).\n   - An open file named `main.py` with an empty code editor pane.\n   - The status bar at the bottom shows line numbers (`1:1`), encoding (`UTF-8`), indentation (`4 spaces`), and the Python interpreter version (`Python 3.8 (learn_python_5)`).\n   - Tool window tabs at the bottom include TODO, Terminal, Python Console, and Event Log.\n\n2. **What Python code or concepts can be identified?**\n   - No Python code is visible since the file is currently empty.\n\n3. **Is any execution output or error visible?**\n   - No execution output or error is visible.\n\n4. **What might be difficult for a beginner?**\n   - Since the editor is completely blank, a beginner might face the \"blank page problem\"—not knowing where to start writing their first line of code or how to set up and run a script without guidance.",
+    "model": "gemini-3.5-flash-lite",
+    "status": "success"
+  },
+  {
+    "video_id": "PY101_V01",
+    "frame_file": "PY101_V01_frame_00020.jpg",
+    "timestamp_seconds": 20,
+    "topic_names": [],
+    "description": "1. **What is visibly shown?**\n   An Integrated Development Environment (IDE), specifically PyCharm, displaying an empty file named `main.py` inside a project folder named `learn_python_5`. The editor area is completely blank with a text cursor.\n\n2. **What Python code or concepts can be identified?**\n   No Python code is present. The status bar at the bottom indicates Python version 3.8 is selected.\n\n3. **Is any execution output or error visible?**\n   No execution output, terminal, or error messages are visible.\n\n4. **What might be difficult for a beginner?**\n   Knowing where to begin typing or how to write basic Python syntax since the editor is completely blank.",
+    "model": "gemini-3.5-flash-lite",
+    "status": "success"
+  }
+]

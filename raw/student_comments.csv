@@ -1,0 +1,115 @@
+﻿comment_id,course_id,video_id,student_id,topic_id,comment_text,comment_type,data_provenance
+C114,PY101,PY101_V01,S084,general,Is there a follow-up video?,general_feedback,synthetic_student_comment
+C066,PY101,PY101_V01,S075,for_loop,How does Python choose the next value in range()?,question,synthetic_student_comment
+C016,PY101,PY101_V01,S002,error_handling,Why does int(input()) sometimes throw ValueError?,question,synthetic_student_comment
+C059,PY101,PY101_V01,S012,for_loop,What is the difference between for and while?,question,synthetic_student_comment
+C092,PY101,PY101_V01,S068,lists,Does list indexing start at 0?,question,synthetic_student_comment
+C030,PY101,PY101_V01,S050,arithmetic,What does the remainder operator do?,question,synthetic_student_comment
+C084,PY101,PY101_V01,S059,conditionals,When does the else block run?,question,synthetic_student_comment
+C011,PY101,PY101_V01,S043,error_handling,Could you show another example? When should I use except ValueError?,question,synthetic_student_comment
+C034,PY101,PY101_V01,S010,functions,Why does my function show an indentation error?,question,synthetic_student_comment
+C070,PY101,PY101_V01,S081,for_loop,Why does range(3) not include 3?,question,synthetic_student_comment
+C110,PY101,PY101_V01,S036,general,What software is used in the video?,general_feedback,synthetic_student_comment
+C040,PY101,PY101_V01,S087,functions,Why does my function show an indentation error?,question,synthetic_student_comment
+C017,PY101,PY101_V01,S003,while_loop,My while loop keeps running forever. Why?,question,synthetic_student_comment
+C088,PY101,PY101_V01,S068,conditionals,Does >= include the boundary value?,question,synthetic_student_comment
+C071,PY101,PY101_V01,S118,type_casting,"Why does str(20) + ""2"" become ""202""?",question,synthetic_student_comment
+C046,PY101,PY101_V01,S100,variables_types,"Is True the same as ""True""?",question,synthetic_student_comment
+C020,PY101,PY101_V01,S079,while_loop,My while loop keeps running forever. Why?,question,synthetic_student_comment
+C096,PY101,PY101_V01,S114,lists,Why is items[0] the first element?,question,synthetic_student_comment
+C029,PY101,PY101_V01,S088,arithmetic,Why does 7 // 2 return 3?,question,synthetic_student_comment
+C094,PY101,PY101_V01,S085,lists,How do I access the last element of a list?,question,synthetic_student_comment
+C067,PY101,PY101_V01,S119,for_loop,Why does range(3) not include 3?,question,synthetic_student_comment
+C086,PY101,PY101_V01,S120,conditionals,Why is my if block not executing?,question,synthetic_student_comment
+C021,PY101,PY101_V01,S085,while_loop,Could you show another example? How many times does while x < 4 run?,question,synthetic_student_comment
+C006,PY101,PY101_V01,S082,input,What happens if the user types letters?,question,synthetic_student_comment
+C013,PY101,PY101_V01,S086,error_handling,Why does int(input()) sometimes throw ValueError?,question,synthetic_student_comment
+C025,PY101,PY101_V01,S095,while_loop,Could you show another example? Does the condition get checked before each iteration?,question,synthetic_student_comment
+C052,PY101,PY101_V01,S048,for_loop,Why does range(3) not include 3?,question,synthetic_student_comment
+C064,PY101,PY101_V01,S060,for_loop,Could you show another example? Why does range(3) not include 3?,question,synthetic_student_comment
+C042,PY101,PY101_V01,S011,functions,Could you show another example? What is the indentation rule for a function?,question,synthetic_student_comment
+C080,PY101,PY101_V01,S030,type_casting,"Why does str(20) + ""2"" become ""202""?",question,synthetic_student_comment
+C018,PY101,PY101_V01,S072,while_loop,How many times does while x < 4 run?,question,synthetic_student_comment
+C111,PY101,PY101_V01,S079,general,The font is a little small on my screen.,general_feedback,synthetic_student_comment
+C106,PY101,PY101_V01,S091,function_calls,Could you show another example? What is the difference between defining and calling a function?,question,synthetic_student_comment
+C058,PY101,PY101_V01,S028,for_loop,Why does range(3) not include 3?,question,synthetic_student_comment
+C099,PY101,PY101_V01,S063,strings,Why do quotes matter around a string?,question,synthetic_student_comment
+C101,PY101,PY101_V01,S008,strings,How can I join text with a variable?,question,synthetic_student_comment
+C007,PY101,PY101_V01,S053,error_handling,Why does int(input()) sometimes throw ValueError?,question,synthetic_student_comment
+C026,PY101,PY101_V01,S014,while_loop,My while loop keeps running forever. Why?,question,synthetic_student_comment
+C060,PY101,PY101_V01,S046,for_loop,Could you show another example? How does Python choose the next value in range()?,question,synthetic_student_comment
+C065,PY101,PY101_V01,S021,for_loop,What is the difference between for and while?,question,synthetic_student_comment
+C102,PY101,PY101_V01,S033,function_calls,How do I pass a name into a function?,question,synthetic_student_comment
+C048,PY101,PY101_V01,S113,variables_types,Can a variable change its type?,question,synthetic_student_comment
+C075,PY101,PY101_V01,S029,type_casting,Could you show another example? When should I convert int to str?,question,synthetic_student_comment
+C009,PY101,PY101_V01,S072,error_handling,I do not understand the try and except flow.,question,synthetic_student_comment
+C103,PY101,PY101_V01,S033,function_calls,What is the difference between defining and calling a function?,question,synthetic_student_comment
+C063,PY101,PY101_V01,S082,for_loop,How does Python choose the next value in range()?,question,synthetic_student_comment
+C068,PY101,PY101_V01,S109,for_loop,Could you show another example? What is the difference between for and while?,question,synthetic_student_comment
+C053,PY101,PY101_V01,S118,for_loop,What is the difference between for and while?,question,synthetic_student_comment
+C049,PY101,PY101_V01,S052,variables_types,"Is True the same as ""True""?",question,synthetic_student_comment
+C090,PY101,PY101_V01,S097,lists,Why is items[0] the first element?,question,synthetic_student_comment
+C113,PY101,PY101_V01,S111,general,"Thanks, I understood the lesson.",general_feedback,synthetic_student_comment
+C051,PY101,PY101_V01,S092,variables_types,Can a variable change its type?,question,synthetic_student_comment
+C078,PY101,PY101_V01,S064,type_casting,When should I convert int to str?,question,synthetic_student_comment
+C095,PY101,PY101_V01,S041,lists,Does list indexing start at 0?,question,synthetic_student_comment
+C057,PY101,PY101_V01,S027,for_loop,How does Python choose the next value in range()?,question,synthetic_student_comment
+C024,PY101,PY101_V01,S036,while_loop,How many times does while x < 4 run?,question,synthetic_student_comment
+C015,PY101,PY101_V01,S027,error_handling,Could you show another example? I do not understand the try and except flow.,question,synthetic_student_comment
+C003,PY101,PY101_V01,S083,input,What happens if the user types letters?,question,synthetic_student_comment
+C085,PY101,PY101_V01,S119,conditionals,Could you show another example? Does >= include the boundary value?,question,synthetic_student_comment
+C079,PY101,PY101_V01,S007,type_casting,Could you show another example? Why does adding a number and a string fail?,question,synthetic_student_comment
+C014,PY101,PY101_V01,S101,error_handling,When should I use except ValueError?,question,synthetic_student_comment
+C031,PY101,PY101_V01,S072,arithmetic,What is the difference between / and //?,question,synthetic_student_comment
+C098,PY101,PY101_V01,S072,strings,How can I join text with a variable?,question,synthetic_student_comment
+C022,PY101,PY101_V01,S052,while_loop,Does the condition get checked before each iteration?,question,synthetic_student_comment
+C028,PY101,PY101_V01,S043,arithmetic,What is the difference between / and //?,question,synthetic_student_comment
+C036,PY101,PY101_V01,S006,functions,What is the indentation rule for a function?,question,synthetic_student_comment
+C073,PY101,PY101_V01,S049,type_casting,Why does adding a number and a string fail?,question,synthetic_student_comment
+C033,PY101,PY101_V01,S050,arithmetic,What does the remainder operator do?,question,synthetic_student_comment
+C054,PY101,PY101_V01,S012,for_loop,How does Python choose the next value in range()?,question,synthetic_student_comment
+C039,PY101,PY101_V01,S074,functions,What is the indentation rule for a function?,question,synthetic_student_comment
+C107,PY101,PY101_V01,S005,function_calls,Why is my greet() function not running?,question,synthetic_student_comment
+C001,PY101,PY101_V01,S027,input,Why is input() giving me text instead of a number?,question,synthetic_student_comment
+C010,PY101,PY101_V01,S029,error_handling,Why does int(input()) sometimes throw ValueError?,question,synthetic_student_comment
+C012,PY101,PY101_V01,S058,error_handling,I do not understand the try and except flow.,question,synthetic_student_comment
+C032,PY101,PY101_V01,S093,arithmetic,Could you show another example? Why does 7 // 2 return 3?,question,synthetic_student_comment
+C035,PY101,PY101_V01,S045,functions,Does def execute the code immediately?,question,synthetic_student_comment
+C062,PY101,PY101_V01,S030,for_loop,What is the difference between for and while?,question,synthetic_student_comment
+C105,PY101,PY101_V01,S042,function_calls,How do I pass a name into a function?,question,synthetic_student_comment
+C087,PY101,PY101_V01,S072,conditionals,When does the else block run?,question,synthetic_student_comment
+C047,PY101,PY101_V01,S101,variables_types,How is a string different from an integer?,question,synthetic_student_comment
+C104,PY101,PY101_V01,S015,function_calls,Why is my greet() function not running?,question,synthetic_student_comment
+C082,PY101,PY101_V01,S066,conditionals,Does >= include the boundary value?,question,synthetic_student_comment
+C089,PY101,PY101_V01,S082,lists,Does list indexing start at 0?,question,synthetic_student_comment
+C083,PY101,PY101_V01,S068,conditionals,Why is my if block not executing?,question,synthetic_student_comment
+C100,PY101,PY101_V01,S086,strings,Can print() show both numbers and strings?,question,synthetic_student_comment
+C076,PY101,PY101_V01,S058,type_casting,Why does adding a number and a string fail?,question,synthetic_student_comment
+C002,PY101,PY101_V01,S069,input,Do I need int() every time I use input()?,question,synthetic_student_comment
+C037,PY101,PY101_V01,S107,functions,Why does my function show an indentation error?,question,synthetic_student_comment
+C112,PY101,PY101_V01,S038,general,Can you share the code files?,general_feedback,synthetic_student_comment
+C043,PY101,PY101_V01,S107,functions,Why does my function show an indentation error?,question,synthetic_student_comment
+C004,PY101,PY101_V01,S105,input,Why is input() giving me text instead of a number?,question,synthetic_student_comment
+C077,PY101,PY101_V01,S067,type_casting,"Why does str(20) + ""2"" become ""202""?",question,synthetic_student_comment
+C081,PY101,PY101_V01,S039,conditionals,When does the else block run?,question,synthetic_student_comment
+C005,PY101,PY101_V01,S028,input,Could you show another example? Do I need int() every time I use input()?,question,synthetic_student_comment
+C108,PY101,PY101_V01,S065,function_calls,How do I pass a name into a function?,question,synthetic_student_comment
+C008,PY101,PY101_V01,S025,error_handling,When should I use except ValueError?,question,synthetic_student_comment
+C055,PY101,PY101_V01,S009,for_loop,Why does range(3) not include 3?,question,synthetic_student_comment
+C019,PY101,PY101_V01,S092,while_loop,Does the condition get checked before each iteration?,question,synthetic_student_comment
+C069,PY101,PY101_V01,S028,for_loop,How does Python choose the next value in range()?,question,synthetic_student_comment
+C050,PY101,PY101_V01,S019,variables_types,Could you show another example? How is a string different from an integer?,question,synthetic_student_comment
+C061,PY101,PY101_V01,S117,for_loop,Why does range(3) not include 3?,question,synthetic_student_comment
+C091,PY101,PY101_V01,S024,lists,How do I access the last element of a list?,question,synthetic_student_comment
+C044,PY101,PY101_V01,S020,functions,Does def execute the code immediately?,question,synthetic_student_comment
+C041,PY101,PY101_V01,S027,functions,Does def execute the code immediately?,question,synthetic_student_comment
+C045,PY101,PY101_V01,S025,functions,What is the indentation rule for a function?,question,synthetic_student_comment
+C023,PY101,PY101_V01,S034,while_loop,My while loop keeps running forever. Why?,question,synthetic_student_comment
+C097,PY101,PY101_V01,S050,lists,Could you show another example? How do I access the last element of a list?,question,synthetic_student_comment
+C074,PY101,PY101_V01,S111,type_casting,"Why does str(20) + ""2"" become ""202""?",question,synthetic_student_comment
+C109,PY101,PY101_V01,S077,general,"Great explanation, thank you!",general_feedback,synthetic_student_comment
+C093,PY101,PY101_V01,S082,lists,Could you show another example? Why is items[0] the first element?,question,synthetic_student_comment
+C056,PY101,PY101_V01,S082,for_loop,Could you show another example? What is the difference between for and while?,question,synthetic_student_comment
+C038,PY101,PY101_V01,S052,functions,Could you show another example? Does def execute the code immediately?,question,synthetic_student_comment
+C072,PY101,PY101_V01,S103,type_casting,When should I convert int to str?,question,synthetic_student_comment
+C027,PY101,PY101_V01,S097,while_loop,How many times does while x < 4 run?,question,synthetic_student_comment

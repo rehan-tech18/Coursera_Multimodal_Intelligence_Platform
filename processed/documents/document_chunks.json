@@ -1,0 +1,42 @@
+[
+  {
+    "record_id": "bf57b99373a66fc84ac7",
+    "course_id": "PY101",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf",
+    "location": "page_1",
+    "text": "PY101  |  Demonstration lesson notes  |  Not an official course document\nPage 1\nPY101 | Python Fundamentals\nCompanion lesson notes for a beginner Python video | Sample educational asset for Coursera\nIntelligence Platform\nDEMONSTRATION MATERIAL - NOT AN ORIGINAL COURSE HANDOUT. These notes were independently\nwritten to cover the subjects evident in the user-provided video transcript. They are not a verbatim\ninstructor transcript or an official Coursera document. All topic times below are approximate.\nCourse identifier: PY101    Video: PY101_V01    Length: approximately 10 minutes 30 seconds\nLesson goals\nAfter working through these notes, a learner should be able to create variables, work with common data\ntypes, convert strings and numbers, use arithmetic and conditionals, write for and while loops, define\nfunctions, and catch simple exceptions.\nTopic-to-video guide\nTopic\nApproximate location\nVariables, strings and data types\n00:26 - 01:54\nLists\n01:54 - 02:21\nType conversion\n02:21 - 03:17\nArithmetic operators\n03:17 - 03:53\nConditionals\n03:53 - 04:55\nFor loops\n04:55 - 05:56\nWhile loops and input\n05:56 - 07:15\nFunctions and calling functions\n07:15 - 09:03\nTry/except\n09:03 - 10:21\n1. Variables and basic data types (00:26 - 01:54)\nVariables refer to values. Names are case-sensitive, so item and Item are different identifiers. Use\ndescriptive names, often separated with underscores.\nitem = \"banana\"\nItem = \"apple\"\nitem_name = \"orange\"\nprint(\"Hello \" + item_name)\nCommon types include integers (int), strings (str), booleans (bool) and lists (list). Strings use quotes;\nbooleans are written True and False.\nyear = 2021          # int",
+    "data_provenance": "user_supplied_document",
+    "extraction_method": "native_text"
+  },
+  {
+    "record_id": "0d606a7edf57d4692766",
+    "course_id": "PY101",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf",
+    "location": "page_2",
+    "text": "PY101  |  Demonstration lesson notes  |  Not an official course document\nPage 2\nname = \"Mario\"       # str\nis_ready = False     # bool\nfruits = [\"apple\", \"orange\"]  # list\n2. Lists and type conversion (01:54 - 03:17)\nLists group values in order. Python lists use square brackets, and their first element is at index zero. When\nmixing text and numbers, convert explicitly before joining or calculating.\nnames = [\"Mario\", \"Luigi\"]\nprint(names[0])       # Mario\nage_text = \"22\"\nprint(int(age_text) + 10)  # 32\nprint(\"Age: \" + str(22))\nCommon mistake: \"22\" + 10 raises a TypeError, because Python will not automatically add a string to an\ninteger.\n3. Arithmetic operators (03:17 - 03:53)\na = 10\nb = 5\nprint(a + b)   # 15\nprint(a - b)   # 5\nprint(a * b)   # 50\nprint(a / b)   # 2.0\nprint(a ** b)  # 100000\n4. Conditional statements (03:53 - 04:55)\nif, elif, and else select which code runs. The condition is evaluated as true or false. Indentation determines\nwhich statements belong to each branch.\nage = 18\nif age > 21:\n    print(\"You are old\")\nelif age == 18:\n    print(\"You are getting old\")\nelse:\n    print(\"You are still young\")\n5. For loops and range (04:55 - 05:56)\nA for loop visits items in a sequence. range(3) generates 0, 1 and 2; the endpoint is not included.\nfor i in range(3):\n    print(\"Hello\", i + 1)\nfor name in [\"Mario\", \"Luigi\"]:\n    print(name)\n6. While loops: conditions, state and termination (05:56 - 07:15)\nA while loop repeatedly executes its body while a condition remains true. Correct termination depends on\nan update to the loop state or an explicit exit such as break.\ni = 0",
+    "data_provenance": "user_supplied_document",
+    "extraction_method": "native_text"
+  },
+  {
+    "record_id": "f5bd3c3d3c6868715b26",
+    "course_id": "PY101",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf",
+    "location": "page_3",
+    "text": "PY101  |  Demonstration lesson notes  |  Not an official course document\nPage 3\nwhile i < 5:\n    i += 1\n    print(i)\nWhy do infinite loops happen? If a condition remains true and nothing changes it, the loop may keep\nrunning. The example below is intentionally problematic:\ni = 0\n# Do not run without a stopping mechanism:\n# while i < 5:\n#     print(i)    # i never changes\nAnother way to exit is a break statement, often used when waiting for user input:\nwhile True:\n    answer = input(\"Enter something (0 to stop): \")\n    if answer == \"0\":\n        print(\"We are done here\")\n        break\nDebugging checklist: (1) Identify the condition. (2) Identify the variable or input that changes it. (3) Trace\nthe first three iterations. (4) Verify that termination can occur. (5) Use break only when it makes the exit\nrule clear.\n7. Functions and function calls (07:15 - 09:03)\nA function packages reusable code. Define a function using def, then call it by name. pass is a placeholder\nwhen a function body has not yet been implemented.\ndef say_hello(name):\n    print(\"Hey there\", name)\nsay_hello(\"Mario\")\nsay_hello(\"Luigi\")\ndef future_feature():\n    pass\n8. Exception handling (09:03 - 10:21)\nA try block contains code that might fail. An except block handles a particular error. Catching a specific\nexception is usually better than catching every exception.\nnumber_text = input(\"Provide a number: \")\ntry:\n    print(10 + int(number_text))\nexcept ValueError:\n    print(\"That is not a valid number\")\nPractice activities\nA. Write a while loop that prints 1 through 5, then explain why it stops.\nB. Fix a while loop that never updates its counter.\nC. Ask for a number and handle an invalid integer conversion.\nD. Write a function that greets two different people without duplicating the print statement.",
+    "data_provenance": "user_supplied_document",
+    "extraction_method": "native_text"
+  },
+  {
+    "record_id": "a9fd483cb35928a1e5ae",
+    "course_id": "PY101",
+    "source_type": "pdf",
+    "source_file": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf",
+    "location": "page_4",
+    "text": "PY101  |  Demonstration lesson notes  |  Not an official course document\nPage 4\nReview questions\n1. Why are item and Item different variables?\n2. What values are produced by range(3)?\n3. When should you use int() or str()?\n4. What two mechanisms can stop a while loop?\n5. What is the difference between defining and calling a function?\nProvenance and usage in the demo platform\nDocument type: independently authored sample PDF lesson notes. Source inspiration: topics and\napproximate times observed in the provided PY101 video transcript. This material is designed for testing\ntext extraction, page citations, semantic retrieval and educator-facing comparison. It is not evidence that\nthe original instructor distributed these notes, and recommendations should distinguish sample notes from\noriginal video teaching.",
+    "data_provenance": "user_supplied_document",
+    "extraction_method": "native_text"
+  }
+]

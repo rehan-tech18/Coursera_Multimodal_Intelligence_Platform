@@ -1,0 +1,14 @@
+﻿
+course_id,video_id,topic_id,topic_name,approx_start_time,approx_end_time,time_precision,source
+PY101,PY101_V01,input,User input and type conversion,00:06:21,00:07:15,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,error_handling,try/except and invalid input,00:09:03,00:10:21,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,while_loop,while loops,00:05:56,00:07:15,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,arithmetic,Arithmetic operations,00:03:17,00:03:53,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,functions,Functions and indentation,00:07:15,00:09:03,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,variables_types,Variables and data types,00:00:26,00:01:54,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,for_loop,for loops and range,00:04:55,00:05:56,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,type_casting,String and integer conversion,00:02:21,00:03:17,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,conditionals,if/else conditions,00:03:53,00:04:55,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,lists,Lists and indexing,00:01:54,00:02:21,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,strings,Strings and output,00:00:26,00:01:40,approximate_transcript_alignment,whisper_transcript
+PY101,PY101_V01,function_calls,Calling functions,00:07:30,00:08:09,approximate_transcript_alignment,whisper_transcript

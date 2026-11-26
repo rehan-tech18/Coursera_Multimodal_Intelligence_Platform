@@ -1,0 +1,13 @@
+﻿course_id,video_id,question_id,topic_id,question_text,option_a,option_b,option_c,option_d,correct_option,data_provenance
+PY101,PY101_V01,Q01,input,What data type does input() return in Python?,str,int,float,bool,A,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q02,error_handling,Which block handles a ValueError from int(input())?,finally,except ValueError,else,while,B,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q03,while_loop,"If x=1 and while x<4 increments x by 1 each time, how many iterations occur?",2,4,3,1,C,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q04,arithmetic,What is 7 // 2 in Python?,3.5,3,4,1,B,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q05,functions,Which keyword defines a function in Python?,def,func,function,make,A,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q06,functions,Why must code inside a function be indented?,It improves internet speed,It changes variable names,Indentation defines the function body,It prevents all errors,C,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q07,variables_types,Which of these is a boolean value?,"""True""",5,3.14,True,D,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q08,for_loop,What numbers does range(3) produce?,"1, 2, 3","0, 1, 2","0, 1, 2, 3","3, 2, 1",B,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q09,type_casting,"What is the result of str(20) + ""2""?",22 as an integer,An error,"""202""",40,C,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q10,conditionals,"If age=20, which branch runs for if age >= 18: ... else: ...?",if branch,else branch,both branches,neither branch,A,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q11,lists,"Given items=[""apple"",""banana""], what is items[0]?","""banana""","""apple""",0,An error,B,synthetic_question_inspired_by_video_topics
+PY101,PY101_V01,Q12,function_calls,"Given def greet(name): print(name), what calls the function with ""Sam""?","def greet(""Sam"")",print(greet),"greet = ""Sam""","greet(""Sam"")",D,synthetic_question_inspired_by_video_topics

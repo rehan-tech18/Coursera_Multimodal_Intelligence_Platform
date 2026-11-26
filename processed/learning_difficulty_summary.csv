@@ -1,0 +1,12 @@
+course_id,video_id,topic_id,total_attempts,correct_answers,incorrect_answers,incorrect_rate_pct,comment_count,topic_name
+PY101,PY101_V01,while_loop,120,40,80,66.67,11,while loops
+PY101,PY101_V01,type_casting,120,43,77,64.17,10,String and integer conversion
+PY101,PY101_V01,for_loop,120,54,66,55.0,19,for loops and range
+PY101,PY101_V01,error_handling,120,59,61,50.83,10,try/except and invalid input
+PY101,PY101_V01,lists,120,61,59,49.17,9,Lists and indexing
+PY101,PY101_V01,arithmetic,120,71,49,40.83,6,Arithmetic operations
+PY101,PY101_V01,function_calls,120,75,45,37.5,7,Calling functions
+PY101,PY101_V01,input,120,79,41,34.17,6,User input and type conversion
+PY101,PY101_V01,variables_types,120,80,40,33.33,6,Variables and data types
+PY101,PY101_V01,functions,240,169,71,29.58,12,Functions and indentation
+PY101,PY101_V01,conditionals,120,92,28,23.33,8,if/else conditions

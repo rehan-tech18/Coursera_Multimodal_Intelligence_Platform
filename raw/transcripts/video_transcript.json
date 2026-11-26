@@ -1,0 +1,479 @@
+[
+  {
+    "segment_id": "PY101_V01_T0001",
+    "video_id": "PY101_V01",
+    "start_seconds": 0.0,
+    "end_seconds": 12.0,
+    "text": "What is up guys, in this video, I'm going to be showing you how you can get started with Python in less than 10 minutes, and I'm going to be using Python 3.8 for this, along with PyCharm as my code editor.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0002",
+    "video_id": "PY101_V01",
+    "start_seconds": 12.0,
+    "end_seconds": 26.0,
+    "text": "You can just search these on Google and they will pop up immediately. They are free and open source, so definitely do check those out. Otherwise, let's get started immediately with the first thing you should know in Python, and that is how to assign values to variables.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0003",
+    "video_id": "PY101_V01",
+    "start_seconds": 26.0,
+    "end_seconds": 39.0,
+    "text": "So to create a variable, all you have to do is decide on a name, such as item, and then you can just assign it a value. This is a string, and a string is just any form of text for the program to read.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0004",
+    "video_id": "PY101_V01",
+    "start_seconds": 39.0,
+    "end_seconds": 50.0,
+    "text": "And you also need to keep in mind that Python is a case-sensitive language, which means item with a small i and item with a big i are going to mean absolutely different things.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0005",
+    "video_id": "PY101_V01",
+    "start_seconds": 50.0,
+    "end_seconds": 63.0,
+    "text": "And also, a naming convention in Python is to add an underscore every time you have more than one word, so if we say item name, you want to add this underscore over here, and we can just say orange.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0006",
+    "video_id": "PY101_V01",
+    "start_seconds": 63.0,
+    "end_seconds": 74.0,
+    "text": "So now we have a few strings assigned to three different variables. Let's go ahead and print first the difference between item and item, just to show you that there is a difference.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0007",
+    "video_id": "PY101_V01",
+    "start_seconds": 74.0,
+    "end_seconds": 88.0,
+    "text": "So we'll go ahead and click on run. And you'll notice it will say banana and apple. Now, let's go ahead and print another string, which this time is going to be hello, and we're going to add a plus and the item name.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0008",
+    "video_id": "PY101_V01",
+    "start_seconds": 88.0,
+    "end_seconds": 100.0,
+    "text": "So as you can see, we can actually combine text, and when we print that, it's going to say hello orange. Next we have data types. So the first one is the integer, which is just any number, and you're going to notice it being written in blue.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0009",
+    "video_id": "PY101_V01",
+    "start_seconds": 101.0,
+    "end_seconds": 114.0,
+    "text": "Then we have strings, which as I showed you earlier is just any text inside quotation marks. Then we have bullions, which is just a simple true or false. So as you can see, we can just type in false here or true here.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0010",
+    "video_id": "PY101_V01",
+    "start_seconds": 114.0,
+    "end_seconds": 127.0,
+    "text": "And that's all that it is. It just says true or false. And the final one you should know for getting started is list, which all you have to do is create a pair of angle brackets and insert the values you want inside here.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0011",
+    "video_id": "PY101_V01",
+    "start_seconds": 127.0,
+    "end_seconds": 141.0,
+    "text": "And they can be a mixture between numbers, bullions, and so on. But for this example, we'll just keep it simple and write a few strings. Then if we go ahead and print these, you're going to notice that we will get 2021 text false and the list.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0012",
+    "video_id": "PY101_V01",
+    "start_seconds": 141.0,
+    "end_seconds": 154.0,
+    "text": "But let's move on to an example that we want to print these values combined. So let's say name is Mario, the string number is going to equal 22. So you're going to notice 2021 is a blue number.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0013",
+    "video_id": "PY101_V01",
+    "start_seconds": 154.0,
+    "end_seconds": 170.0,
+    "text": "And this one is green, because this is considered text while this is considered an integer. So what we need to do is actually convert them into the correct types before combining them. So to do that, we can just go ahead and type in print name plus the string value of integer.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0014",
+    "video_id": "PY101_V01",
+    "start_seconds": 170.0,
+    "end_seconds": 181.0,
+    "text": "So it's going to convert the integer to a string so that we can combine these two texts together. If we remove that and only write integer, you're going to notice we are going to get an exception that says we cannot do that.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0015",
+    "video_id": "PY101_V01",
+    "start_seconds": 181.0,
+    "end_seconds": 189.0,
+    "text": "And the same thing goes for the string number. Pretend we want to add the value of 10 to the string number. The editor will be nice enough to tell you you shouldn't do that.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0016",
+    "video_id": "PY101_V01",
+    "start_seconds": 189.0,
+    "end_seconds": 197.0,
+    "text": "And we should just put some parentheses there and type in int ahead of that so it can convert it to an integer and add it easily.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0017",
+    "video_id": "PY101_V01",
+    "start_seconds": 197.0,
+    "end_seconds": 206.0,
+    "text": "Next, let's move on to math. So we will create two variables. One will be 10 and one will be five. And to do math in Python, it's very self explanatory.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0018",
+    "video_id": "PY101_V01",
+    "start_seconds": 206.0,
+    "end_seconds": 216.0,
+    "text": "As you can see, to do addition, you just need to add a plus symbol for the difference. You just add a minus symbol to multiply, you add an asterix to divide, you add a slash.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0019",
+    "video_id": "PY101_V01",
+    "start_seconds": 216.0,
+    "end_seconds": 224.0,
+    "text": "And if you want the exponential power, just add two asterix. And you'll notice that if we print all of these, you're going to get a very quick calculator.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0020",
+    "video_id": "PY101_V01",
+    "start_seconds": 224.0,
+    "end_seconds": 233.0,
+    "text": "So of course, 10 plus five is 15, a minus B is going to be five, and so on. You'll get the values that correspond to those operators.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0021",
+    "video_id": "PY101_V01",
+    "start_seconds": 233.0,
+    "end_seconds": 243.0,
+    "text": "Okay, next, let's go ahead and create a logic statement. So we're going to use these two values. So his happy is false, age is 28.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0022",
+    "video_id": "PY101_V01",
+    "start_seconds": 243.0,
+    "end_seconds": 259.0,
+    "text": "Let's pretend we want something to happen if the age is more than 21. We'll say print, you are old. And if they are not old, we can also type in L if the age is equal to 18, we will tell them you are getting old.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0023",
+    "video_id": "PY101_V01",
+    "start_seconds": 259.0,
+    "end_seconds": 273.0,
+    "text": "And if it's neither of those, we can go ahead and say you are still young. And the same thing goes with the is happy statement. So if we type in if the person is happy, we can write you are happy else.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0024",
+    "video_id": "PY101_V01",
+    "start_seconds": 273.0,
+    "end_seconds": 282.0,
+    "text": "They are probably not happy. So we will just write you are not happy. And when we play it, it's going to say they are not happy because is happy is false.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0025",
+    "video_id": "PY101_V01",
+    "start_seconds": 282.0,
+    "end_seconds": 295.0,
+    "text": "And if we set this to true, it's going to change to you are happy. So the if statement just takes into account whether a statement is true or false. And depending on that, it's going to give the outcome of the values.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0026",
+    "video_id": "PY101_V01",
+    "start_seconds": 295.0,
+    "end_seconds": 308.0,
+    "text": "And the if else statement is going to probably be your most used logic. Next, let's move on to the for loop. So for I in range of three, which means it's going to loop over three values.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0027",
+    "video_id": "PY101_V01",
+    "start_seconds": 308.0,
+    "end_seconds": 322.0,
+    "text": "We want to print hello, and we can add a comma here and the value of I. So if we print this, you're going to notice, it's going to say hello, zero, hello, two, because in programming, the index always starts at zero.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0028",
+    "video_id": "PY101_V01",
+    "start_seconds": 322.0,
+    "end_seconds": 337.0,
+    "text": "So if you actually want that to start at one, you're going to have to manually add one to I. So now you get hello, one, hello, two, hello, three, and also just so you know what ranges we can go down here, and we can go ahead and type in print range of three.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0029",
+    "video_id": "PY101_V01",
+    "start_seconds": 338.0,
+    "end_seconds": 346.0,
+    "text": "So you're going to notice it's going to create a range object, which is going to have the values from zero to three. So this can iterate three times over that.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0030",
+    "video_id": "PY101_V01",
+    "start_seconds": 346.0,
+    "end_seconds": 356.0,
+    "text": "But you should also know that this works for lists. So we can create a name list, how we can type in for name in name list, we can print the name.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0031",
+    "video_id": "PY101_V01",
+    "start_seconds": 356.0,
+    "end_seconds": 368.0,
+    "text": "Next we have a while loop. So we're just going to type in I equals zero. And while I is less than five, we're going to increment the value of I by one each time it goes in this loop.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0032",
+    "video_id": "PY101_V01",
+    "start_seconds": 368.0,
+    "end_seconds": 381.0,
+    "text": "And finally, we want to print the value of I. So what you should get are five values printed out just like this, because as soon as this statement becomes false, it's going to exit out of this loop and just terminate the program.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0033",
+    "video_id": "PY101_V01",
+    "start_seconds": 381.0,
+    "end_seconds": 390.0,
+    "text": "But a reason to use this is because you can create an infinite loop, such as while true. And that's never going to be false. And inside here, we're going to type in user input.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0034",
+    "video_id": "PY101_V01",
+    "start_seconds": 390.0,
+    "end_seconds": 402.0,
+    "text": "And that's going to equal an input that says enter something. And if the user input is equal to the string of zero, then we're going to print we are done here.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0035",
+    "video_id": "PY101_V01",
+    "start_seconds": 402.0,
+    "end_seconds": 414.0,
+    "text": "And we are also going to break. And what break does is just cancel the loop, which means if we type in zero, this loop is no longer going to be valid, and it's going to exit out of the program.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0036",
+    "video_id": "PY101_V01",
+    "start_seconds": 414.0,
+    "end_seconds": 425.0,
+    "text": "Otherwise, it's going to loop forever. And if we actually play the program, you're going to notice that finally we can add some inputs so we can type in 10, we can do two, we can type in whatever that is.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0037",
+    "video_id": "PY101_V01",
+    "start_seconds": 425.0,
+    "end_seconds": 435.0,
+    "text": "But as soon as we type in zero, it's going to exit the loop because it will reach this break statement and the program will finish moving on to functions.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0038",
+    "video_id": "PY101_V01",
+    "start_seconds": 435.0,
+    "end_seconds": 444.0,
+    "text": "To create a function, all you have to do is use the dev keyword and just name the function however you like. Of course, I'm going to use the underscore naming convention.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0039",
+    "video_id": "PY101_V01",
+    "start_seconds": 444.0,
+    "end_seconds": 450.0,
+    "text": "And this function is only going to be used to say hello to the user. So here we can go ahead and type in print.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0040",
+    "video_id": "PY101_V01",
+    "start_seconds": 450.0,
+    "end_seconds": 466.0,
+    "text": "Hey, there, and we're going to insert the name. So you might be wondering what are functions and what do we use functions for? Well, functions are just used to reuse your code in many different instances, because the main point of programming is to reuse your code as much as possible.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0041",
+    "video_id": "PY101_V01",
+    "start_seconds": 466.0,
+    "end_seconds": 478.0,
+    "text": "You want to maximize how often you can reuse the same line of code without having to rewrite it. So for example, now we created a function that says hello, we can type in Mario, and we can also use it again.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0042",
+    "video_id": "PY101_V01",
+    "start_seconds": 478.0,
+    "end_seconds": 489.0,
+    "text": "And we can type in Luigi. And when we run the program, it will say, hey, they're Mario and hey, they're Luigi. Instead of writing this statement twice, we were able to just use one function to do it multiple times.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0043",
+    "video_id": "PY101_V01",
+    "start_seconds": 489.0,
+    "end_seconds": 501.0,
+    "text": "And one thing we should cover also on functions is pretend you have a lot of functions you need to create such as get internet and run game, something such as that.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0044",
+    "video_id": "PY101_V01",
+    "start_seconds": 501.0,
+    "end_seconds": 515.0,
+    "text": "And you don't really have the logic for it yet. So you're going to notice that these are empty. If you run the program, you're going to get an error. But Python has created this keyword that is called pass, which essentially just says there's nothing",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0045",
+    "video_id": "PY101_V01",
+    "start_seconds": 515.0,
+    "end_seconds": 530.0,
+    "text": "in here. We accept that. And your program is still going to be able to run regardless of having no content inside the function. Now, when we tap on run, you're going to notice there are going to be no errors because the program is going to understand that we provided the keyword pass, which",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0046",
+    "video_id": "PY101_V01",
+    "start_seconds": 530.0,
+    "end_seconds": 543.0,
+    "text": "just tells it that there's nothing there and it accepts it. But this is very good for creating the blueprints later in case you need to write everything your program should do, but don't really know how to do that yet. Just insert the word pass and it will save you a lot of trouble.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0047",
+    "video_id": "PY101_V01",
+    "start_seconds": 543.0,
+    "end_seconds": 555.0,
+    "text": "And finally, we're going to go over how we can use the try and accept block. So for here, we're going to create an input and it's going to say please provide a number.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0048",
+    "video_id": "PY101_V01",
+    "start_seconds": 555.0,
+    "end_seconds": 571.0,
+    "text": "So now we're going to go ahead and type in try. And we're going to try to print the value plus the integer of the number that we get from the user. And if that doesn't work, we're going to print that that is not a valid number.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0049",
+    "video_id": "PY101_V01",
+    "start_seconds": 571.0,
+    "end_seconds": 583.0,
+    "text": "So the way it works is it tries to execute the code that's inside here. And if anything goes wrong, if an exception occurs, it's going to go to the accept block and it's going to execute whatever's inside there.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0050",
+    "video_id": "PY101_V01",
+    "start_seconds": 583.0,
+    "end_seconds": 595.0,
+    "text": "Of course, if you write something that throws an exception inside here, you need to try with another try and accept block. But if we go ahead and run the program now, we can write something like 10 and it's going to add 10 to the value.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0051",
+    "video_id": "PY101_V01",
+    "start_seconds": 595.0,
+    "end_seconds": 611.0,
+    "text": "But of course, what if we write something such as Mario? Try adding Mario to 10 and the program is not going to be happy because you cannot convert Mario to an integer and then add it to 10. So it's going to say you shouldn't do that, but don't worry because we have the exception covered.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0052",
+    "video_id": "PY101_V01",
+    "start_seconds": 611.0,
+    "end_seconds": 621.0,
+    "text": "And our program will say that is not a valid number and not throw an exception. But anyway, I really hope that helped you to get started with Python. Of course, there's a lot more to cover.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  },
+  {
+    "segment_id": "PY101_V01_T0053",
+    "video_id": "PY101_V01",
+    "start_seconds": 621.0,
+    "end_seconds": 630.0,
+    "text": "This was just meant as a very quick guide for helping you to get started. And with that being said, have a wonderful day and I'll see you guys in the next video.",
+    "source_video": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4",
+    "transcription_model": "base.en"
+  }
+]
