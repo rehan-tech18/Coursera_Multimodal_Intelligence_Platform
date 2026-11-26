@@ -24,8 +24,8 @@ st.set_page_config(
 )
 
 # 2. Locate the project folders
-PROCESSED_DIR = BASE_DIR / "data" / "processed"
-RAW_DIR = BASE_DIR / "data" / "raw"
+PROCESSED_DIR = BASE_DIR / "data" / "processed" / "processed"
+RAW_DIR = BASE_DIR / "data" / "raw" / "raw"
 
 # 3. Load our processed analytics
 learning_data = pd.read_csv(
