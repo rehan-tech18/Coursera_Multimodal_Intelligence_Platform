@@ -32,6 +32,7 @@ ANALYTICS_PATH = (
     BASE_DIR
     / "data"
     / "processed"
+    / "processed"
     / "learning_difficulty_summary.csv"
 )
 
