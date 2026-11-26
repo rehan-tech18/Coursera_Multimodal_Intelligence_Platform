@@ -1,0 +1,493 @@
+{
+  "summary": {
+    "total_topics": 5,
+    "passed_topics": 5,
+    "failed_topics": 0,
+    "invalid_citation_detection_passed": true
+  },
+  "results": [
+    {
+      "topic_id": "while_loop",
+      "question": "Why do students struggle with while loops and infinite loops? What code is visible on screen?",
+      "passed": true,
+      "evidence_count": 12,
+      "modalities": {
+        "quiz_analytics": 1,
+        "learner_comment": 3,
+        "video_transcript": 3,
+        "course_document": 3,
+        "video_visual_analysis": 2
+      },
+      "repeated_passages": 0,
+      "citation_validator_passed": true,
+      "problems": [],
+      "warnings": [
+        "E8: document topic relevance needs review",
+        "E9: document topic relevance needs review",
+        "E10: document topic relevance needs review"
+      ],
+      "sources": [
+        {
+          "reference": "E1",
+          "source_id": "while_loop",
+          "modality": "quiz_analytics",
+          "topic_id": "while_loop",
+          "source_location": "learning_difficulty_summary.csv"
+        },
+        {
+          "reference": "E2",
+          "source_id": "C017",
+          "modality": "learner_comment",
+          "topic_id": "while_loop",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E3",
+          "source_id": "C021",
+          "modality": "learner_comment",
+          "topic_id": "while_loop",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E4",
+          "source_id": "C018",
+          "modality": "learner_comment",
+          "topic_id": "while_loop",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E5",
+          "source_id": "PY101_V01_T0036",
+          "modality": "video_transcript",
+          "topic_id": "while_loop",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E6",
+          "source_id": "PY101_V01_T0031",
+          "modality": "video_transcript",
+          "topic_id": "while_loop",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E7",
+          "source_id": "PY101_V01_T0037",
+          "modality": "video_transcript",
+          "topic_id": "while_loop",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E8",
+          "source_id": "b23a8872a5f777064104f6ff",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_3"
+        },
+        {
+          "reference": "E9",
+          "source_id": "579b9c910ce0b7ba0f0fb92b",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_3"
+        },
+        {
+          "reference": "E10",
+          "source_id": "795fa2a5c8fec3ef6a6f8c9a",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_2"
+        },
+        {
+          "reference": "E11",
+          "source_id": "visual_analysis_dc182944351b7dc758dbb87c",
+          "modality": "video_visual_analysis",
+          "topic_id": "while_loop",
+          "source_location": "data/processed/video_frames/PY101_V01_frame_00380.jpg"
+        },
+        {
+          "reference": "E12",
+          "source_id": "visual_analysis_7b309e2df412f0b754c2d606",
+          "modality": "video_visual_analysis",
+          "topic_id": "while_loop",
+          "source_location": "data/processed/video_frames/PY101_V01_frame_00360.jpg"
+        }
+      ]
+    },
+    {
+      "topic_id": "for_loop",
+      "question": "Why do students struggle with for loops and range()? What code is shown on screen?",
+      "passed": true,
+      "evidence_count": 11,
+      "modalities": {
+        "quiz_analytics": 1,
+        "learner_comment": 3,
+        "video_transcript": 3,
+        "course_document": 3,
+        "video_visual_analysis": 1
+      },
+      "repeated_passages": 0,
+      "citation_validator_passed": true,
+      "problems": [],
+      "warnings": [
+        "E8: document topic relevance needs review",
+        "E9: document topic relevance needs review",
+        "E10: document topic relevance needs review"
+      ],
+      "sources": [
+        {
+          "reference": "E1",
+          "source_id": "for_loop",
+          "modality": "quiz_analytics",
+          "topic_id": "for_loop",
+          "source_location": "learning_difficulty_summary.csv"
+        },
+        {
+          "reference": "E2",
+          "source_id": "C064",
+          "modality": "learner_comment",
+          "topic_id": "for_loop",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E3",
+          "source_id": "C070",
+          "modality": "learner_comment",
+          "topic_id": "for_loop",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E4",
+          "source_id": "C060",
+          "modality": "learner_comment",
+          "topic_id": "for_loop",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E5",
+          "source_id": "PY101_V01_T0029",
+          "modality": "video_transcript",
+          "topic_id": "for_loop",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E6",
+          "source_id": "PY101_V01_T0028",
+          "modality": "video_transcript",
+          "topic_id": "for_loop",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E7",
+          "source_id": "PY101_V01_T0027",
+          "modality": "video_transcript",
+          "topic_id": "for_loop",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E8",
+          "source_id": "b23a8872a5f777064104f6ff",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_3"
+        },
+        {
+          "reference": "E9",
+          "source_id": "95b30b1c995902db7b4581a9",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_4"
+        },
+        {
+          "reference": "E10",
+          "source_id": "6d05d2f1637f007a4c5bcb79",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_1"
+        },
+        {
+          "reference": "E11",
+          "source_id": "visual_analysis_39ab8b24f27c8d93a4bd603a",
+          "modality": "video_visual_analysis",
+          "topic_id": "for_loop",
+          "source_location": "data/processed/video_frames/PY101_V01_frame_00310.jpg"
+        }
+      ]
+    },
+    {
+      "topic_id": "functions",
+      "question": "What difficulties do students report when learning Python functions?",
+      "passed": true,
+      "evidence_count": 10,
+      "modalities": {
+        "quiz_analytics": 1,
+        "learner_comment": 3,
+        "video_transcript": 3,
+        "course_document": 3
+      },
+      "repeated_passages": 0,
+      "citation_validator_passed": true,
+      "problems": [],
+      "warnings": [
+        "E8: document topic relevance needs review",
+        "E9: document topic relevance needs review",
+        "E10: document topic relevance needs review"
+      ],
+      "sources": [
+        {
+          "reference": "E1",
+          "source_id": "functions",
+          "modality": "quiz_analytics",
+          "topic_id": "functions",
+          "source_location": "learning_difficulty_summary.csv"
+        },
+        {
+          "reference": "E2",
+          "source_id": "C038",
+          "modality": "learner_comment",
+          "topic_id": "functions",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E3",
+          "source_id": "C035",
+          "modality": "learner_comment",
+          "topic_id": "functions",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E4",
+          "source_id": "C042",
+          "modality": "learner_comment",
+          "topic_id": "functions",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E5",
+          "source_id": "PY101_V01_T0043",
+          "modality": "video_transcript",
+          "topic_id": "functions",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E6",
+          "source_id": "PY101_V01_T0044",
+          "modality": "video_transcript",
+          "topic_id": "functions",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E7",
+          "source_id": "PY101_V01_T0040",
+          "modality": "video_transcript",
+          "topic_id": "functions",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E8",
+          "source_id": "6d05d2f1637f007a4c5bcb79",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_1"
+        },
+        {
+          "reference": "E9",
+          "source_id": "95b30b1c995902db7b4581a9",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_4"
+        },
+        {
+          "reference": "E10",
+          "source_id": "ef362bffb18e83a25e7d3e75",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_3"
+        }
+      ]
+    },
+    {
+      "topic_id": "conditionals",
+      "question": "What difficulties do students report with Python if and else conditions?",
+      "passed": true,
+      "evidence_count": 10,
+      "modalities": {
+        "quiz_analytics": 1,
+        "learner_comment": 3,
+        "video_transcript": 3,
+        "course_document": 3
+      },
+      "repeated_passages": 0,
+      "citation_validator_passed": true,
+      "problems": [],
+      "warnings": [
+        "E8: document topic relevance needs review",
+        "E9: document topic relevance needs review",
+        "E10: document topic relevance needs review"
+      ],
+      "sources": [
+        {
+          "reference": "E1",
+          "source_id": "conditionals",
+          "modality": "quiz_analytics",
+          "topic_id": "conditionals",
+          "source_location": "learning_difficulty_summary.csv"
+        },
+        {
+          "reference": "E2",
+          "source_id": "C086",
+          "modality": "learner_comment",
+          "topic_id": "conditionals",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E3",
+          "source_id": "C084",
+          "modality": "learner_comment",
+          "topic_id": "conditionals",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E4",
+          "source_id": "C085",
+          "modality": "learner_comment",
+          "topic_id": "conditionals",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E5",
+          "source_id": "PY101_V01_T0025",
+          "modality": "video_transcript",
+          "topic_id": "conditionals",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E6",
+          "source_id": "PY101_V01_T0022",
+          "modality": "video_transcript",
+          "topic_id": "conditionals",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E7",
+          "source_id": "PY101_V01_T0023",
+          "modality": "video_transcript",
+          "topic_id": "conditionals",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E8",
+          "source_id": "6d05d2f1637f007a4c5bcb79",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_1"
+        },
+        {
+          "reference": "E9",
+          "source_id": "95b30b1c995902db7b4581a9",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_4"
+        },
+        {
+          "reference": "E10",
+          "source_id": "0adbdd82c7314f2912fd6197",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_1"
+        }
+      ]
+    },
+    {
+      "topic_id": "error_handling",
+      "question": "What difficulties do students report with try except and invalid input?",
+      "passed": true,
+      "evidence_count": 10,
+      "modalities": {
+        "quiz_analytics": 1,
+        "learner_comment": 3,
+        "video_transcript": 3,
+        "course_document": 3
+      },
+      "repeated_passages": 0,
+      "citation_validator_passed": true,
+      "problems": [],
+      "warnings": [
+        "E8: document topic relevance needs review",
+        "E9: document topic relevance needs review",
+        "E10: document topic relevance needs review"
+      ],
+      "sources": [
+        {
+          "reference": "E1",
+          "source_id": "error_handling",
+          "modality": "quiz_analytics",
+          "topic_id": "error_handling",
+          "source_location": "learning_difficulty_summary.csv"
+        },
+        {
+          "reference": "E2",
+          "source_id": "C015",
+          "modality": "learner_comment",
+          "topic_id": "error_handling",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E3",
+          "source_id": "C009",
+          "modality": "learner_comment",
+          "topic_id": "error_handling",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E4",
+          "source_id": "C011",
+          "modality": "learner_comment",
+          "topic_id": "error_handling",
+          "source_location": "student_comments.csv"
+        },
+        {
+          "reference": "E5",
+          "source_id": "PY101_V01_T0048",
+          "modality": "video_transcript",
+          "topic_id": "error_handling",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E6",
+          "source_id": "PY101_V01_T0047",
+          "modality": "video_transcript",
+          "topic_id": "error_handling",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E7",
+          "source_id": "PY101_V01_T0050",
+          "modality": "video_transcript",
+          "topic_id": "error_handling",
+          "source_location": "Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4"
+        },
+        {
+          "reference": "E8",
+          "source_id": "ef362bffb18e83a25e7d3e75",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_3"
+        },
+        {
+          "reference": "E9",
+          "source_id": "b23a8872a5f777064104f6ff",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_3"
+        },
+        {
+          "reference": "E10",
+          "source_id": "95b30b1c995902db7b4581a9",
+          "modality": "course_document",
+          "topic_id": "unassigned",
+          "source_location": "data/raw/pdfs/PY101_Python_Beginners_Lesson_Notes.pdf#page_4"
+        }
+      ]
+    }
+  ]
+}

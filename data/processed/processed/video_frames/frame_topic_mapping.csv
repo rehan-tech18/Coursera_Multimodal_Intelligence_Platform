@@ -1,0 +1,81 @@
+video_id,timestamp_seconds,frame_file,source_video,topic_id,topic_name,mapping_status
+PY101_V01,0,PY101_V01_frame_00000.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,,,unmatched
+PY101_V01,10,PY101_V01_frame_00010.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,,,unmatched
+PY101_V01,20,PY101_V01_frame_00020.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,,,unmatched
+PY101_V01,30,PY101_V01_frame_00030.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,30,PY101_V01_frame_00030.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,40,PY101_V01_frame_00040.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,40,PY101_V01_frame_00040.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,50,PY101_V01_frame_00050.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,50,PY101_V01_frame_00050.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,60,PY101_V01_frame_00060.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,60,PY101_V01_frame_00060.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,70,PY101_V01_frame_00070.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,70,PY101_V01_frame_00070.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,80,PY101_V01_frame_00080.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,80,PY101_V01_frame_00080.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,90,PY101_V01_frame_00090.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,90,PY101_V01_frame_00090.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,100,PY101_V01_frame_00100.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,100,PY101_V01_frame_00100.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,strings,Strings and output,approximate
+PY101_V01,110,PY101_V01_frame_00110.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,variables_types,Variables and data types,approximate
+PY101_V01,120,PY101_V01_frame_00120.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,lists,Lists and indexing,approximate
+PY101_V01,130,PY101_V01_frame_00130.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,lists,Lists and indexing,approximate
+PY101_V01,140,PY101_V01_frame_00140.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,lists,Lists and indexing,approximate
+PY101_V01,150,PY101_V01_frame_00150.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,type_casting,String and integer conversion,approximate
+PY101_V01,160,PY101_V01_frame_00160.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,type_casting,String and integer conversion,approximate
+PY101_V01,170,PY101_V01_frame_00170.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,type_casting,String and integer conversion,approximate
+PY101_V01,180,PY101_V01_frame_00180.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,type_casting,String and integer conversion,approximate
+PY101_V01,190,PY101_V01_frame_00190.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,type_casting,String and integer conversion,approximate
+PY101_V01,200,PY101_V01_frame_00200.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,arithmetic,Arithmetic operations,approximate
+PY101_V01,210,PY101_V01_frame_00210.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,arithmetic,Arithmetic operations,approximate
+PY101_V01,220,PY101_V01_frame_00220.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,arithmetic,Arithmetic operations,approximate
+PY101_V01,230,PY101_V01_frame_00230.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,arithmetic,Arithmetic operations,approximate
+PY101_V01,240,PY101_V01_frame_00240.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,conditionals,if/else conditions,approximate
+PY101_V01,250,PY101_V01_frame_00250.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,conditionals,if/else conditions,approximate
+PY101_V01,260,PY101_V01_frame_00260.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,conditionals,if/else conditions,approximate
+PY101_V01,270,PY101_V01_frame_00270.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,conditionals,if/else conditions,approximate
+PY101_V01,280,PY101_V01_frame_00280.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,conditionals,if/else conditions,approximate
+PY101_V01,290,PY101_V01_frame_00290.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,conditionals,if/else conditions,approximate
+PY101_V01,300,PY101_V01_frame_00300.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,for_loop,for loops and range,approximate
+PY101_V01,310,PY101_V01_frame_00310.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,for_loop,for loops and range,approximate
+PY101_V01,320,PY101_V01_frame_00320.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,for_loop,for loops and range,approximate
+PY101_V01,330,PY101_V01_frame_00330.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,for_loop,for loops and range,approximate
+PY101_V01,340,PY101_V01_frame_00340.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,for_loop,for loops and range,approximate
+PY101_V01,350,PY101_V01_frame_00350.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,for_loop,for loops and range,approximate
+PY101_V01,360,PY101_V01_frame_00360.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,370,PY101_V01_frame_00370.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,380,PY101_V01_frame_00380.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,390,PY101_V01_frame_00390.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,input,User input and type conversion,approximate
+PY101_V01,390,PY101_V01_frame_00390.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,400,PY101_V01_frame_00400.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,input,User input and type conversion,approximate
+PY101_V01,400,PY101_V01_frame_00400.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,410,PY101_V01_frame_00410.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,input,User input and type conversion,approximate
+PY101_V01,410,PY101_V01_frame_00410.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,420,PY101_V01_frame_00420.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,input,User input and type conversion,approximate
+PY101_V01,420,PY101_V01_frame_00420.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,430,PY101_V01_frame_00430.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,input,User input and type conversion,approximate
+PY101_V01,430,PY101_V01_frame_00430.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,while_loop,while loops,approximate
+PY101_V01,440,PY101_V01_frame_00440.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,450,PY101_V01_frame_00450.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,450,PY101_V01_frame_00450.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,function_calls,Calling functions,approximate
+PY101_V01,460,PY101_V01_frame_00460.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,460,PY101_V01_frame_00460.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,function_calls,Calling functions,approximate
+PY101_V01,470,PY101_V01_frame_00470.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,470,PY101_V01_frame_00470.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,function_calls,Calling functions,approximate
+PY101_V01,480,PY101_V01_frame_00480.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,480,PY101_V01_frame_00480.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,function_calls,Calling functions,approximate
+PY101_V01,490,PY101_V01_frame_00490.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,500,PY101_V01_frame_00500.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,510,PY101_V01_frame_00510.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,520,PY101_V01_frame_00520.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,530,PY101_V01_frame_00530.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,540,PY101_V01_frame_00540.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,functions,Functions and indentation,approximate
+PY101_V01,550,PY101_V01_frame_00550.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,560,PY101_V01_frame_00560.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,570,PY101_V01_frame_00570.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,580,PY101_V01_frame_00580.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,590,PY101_V01_frame_00590.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,600,PY101_V01_frame_00600.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,610,PY101_V01_frame_00610.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate
+PY101_V01,620,PY101_V01_frame_00620.jpg,Learn Python in Less than 10 Minutes for Beginners (Fast & Easy) (1).mp4,error_handling,try/except and invalid input,approximate

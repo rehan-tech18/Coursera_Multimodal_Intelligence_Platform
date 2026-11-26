@@ -1,0 +1,90 @@
+[
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00000.jpg",
+    "description": "Based on the screenshot provided, here is the analysis:\n\n### 1. Visible Content\n*   **IDE Interface:** The screenshot shows an Integrated Development Environment (likely PyCharm) with a dark theme.\n*   **File Tab:** A single file named `main.py` is open.\n*   **Project Structure:** The sidebar shows a project named `learn_python_5` containing the file `main.py`.\n*   **Editor Area:** The main window is an empty text editor with a visible cursor.\n*   **Status Bar:** The bottom status bar indicates encoding (`UTF-8`), indentation settings (`4 spaces`), and the Python interpreter version (`Python 3.8`).\n*   **Tool Windows:** Icons for \"TODO\", \"Terminal\", \"Python Console\", and \"Event Log\" are visible at the bottom.\n\n### 2. Python Concepts\n*   **IDE Environment:** The image demonstrates the basic setup of a Python development environment.\n*   **File Management:** It illustrates how a script (`.py`) is contained within a project folder.\n\n### 3. Visible Code\n*   There is no code written in the editor window; it is currently blank.\n\n### 4. Teaching Value\n*   This frame is useful for orienting beginners to the appearance of an IDE. It helps students understand that before writing code, they need to create a project and an appropriately named Python file (`.py`).\n*   It serves as a \"clean slate\" visual for starting a coding session.\n\n### 5. Limitations\n*   The icons in the top right (next to \"Add Configuration...\") are small and their specific functions are not clearly labeled, though they are standard IDE control buttons (run, debug, etc.).\n*   The text inside the status bar is quite small, though still legible under magnification.",
+    "model": "gemini-3.1-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00160.jpg",
+    "description": "### 1. Visible Content\n* An integrated development environment (PyCharm) displaying a file named `main.py`.\n* A code editor window containing three lines of Python code defining variables (`integer`, `name`, `string_number`).\n* A lower console/run panel showing previous output history, including the number `2021`, the word `text`, `False`, a list containing `['Luigi', 'Mario', 'Toad']`, and `Process finished with exit code 0`.\n* Status bar details at the bottom showing Python 3.8 and UTF-8 encoding.\n\n### 2. Python Concepts\n* Variable assignment\n* Basic data types (integer and string)\n\n### 3. Visible Code\n```python\ninteger = 2021\nname = 'Mario'\nstring_number = '22'\n```\n\n### 4. Teaching Value\n* This frame demonstrates how to assign values to variables using descriptive names and shows the syntax for both numeric values (integers) and text values (strings enclosed in single quotes).\n\n### 5. Limitations\n* The run output text on the left/bottom is partially cut off horizontally, making the full file path difficult to read completely.",
+    "model": "gemini-3.5-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00310.jpg",
+    "description": "1. Visible Content\n   - A code editor interface (looks like PyCharm) containing a Python file named `main.py`.\n   - Line numbers 1 and 2 in the editor.\n   - A terminal/run panel at the bottom displaying command-line execution details, output text (\"You are happy!\"), and \"Process finished with exit code 0\".\n   - UI elements such as tabs, a sidebar (`Project`, `Structure`, `Favorites`), toolbars, and a status bar showing \"Python 3.8\".\n\n2. Python Concepts\n   - `for` loops\n   - The `range()` function\n   - The `print()` function\n   - String literals\n\n3. Visible Code\n   ```python\n   for i in range(3):\n       print('Hello')\n   ```\n\n4. Teaching Value\n   - Shows students how to write a basic iterative loop using `for i in range(...)`.\n   - Demonstrates the use of indentation for block statements inside a loop.\n   - Illustrates the connection between writing code in an editor and seeing its execution output in a run/terminal console.\n\n5. Limitations\n   - The far-right portion of the file path in the run panel is cut off.\n   - The exact output of the loop (`print('Hello')`) is not visible in the terminal output shown in this specific frame (the terminal displays \"You are happy!\" from a different execution or previous code).",
+    "model": "gemini-3.5-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00460.jpg",
+    "description": "### 1. Visible Content\nThe image shows the PyCharm integrated development environment (IDE).\n*   **Top Pane:** An editor window showing a single function definition in `main.py`.\n*   **Bottom Pane:** A \"Run\" tool window showing the terminal output of a program that has already executed.\n*   **Interface Elements:** Standard PyCharm toolbars, file tabs, project structure indicators on the left, and status bars at the bottom showing Python 3.8 is the interpreter.\n\n### 2. Python Concepts\n*   **Function Definition:** Using the `def` keyword.\n*   **Parameters:** Defining a function that accepts an argument (`name`).\n*   **Indentation:** The `print` statement is indented under the function definition.\n*   **Standard Output:** The use of `print()` to display results in the console.\n*   **Program Execution:** The terminal output indicates user input was requested (\"Enter something >>\") multiple times before the program finished.\n\n### 3. Visible Code\n**In the editor:**\n```python\ndef say_hello(name):\n    print('Hey there', name)\n```\n\n**In the console output:**\n```text\nEnter something >> 10\nEnter something >> 02\nEnter something >> jbasdælas\nEnter something >> 0\nWe are done here.\n\nProcess finished with exit code 0\n```\n\n### 4. Teaching Value\n*   **Function Structure:** It shows the basic syntax for defining and calling functions in Python.\n*   **Program Interaction:** It demonstrates the flow of a console-based application where the user provides multiple inputs before the program reaches a termination point (\"We are done here\").\n*   **Debugging/IDE familiarity:** It helps students see how the IDE separates the source code (top) from the execution results (bottom).\n\n### 5. Limitations\n*   **Disconnected Code:** The code visible in the editor (`say_hello`) does not appear to be the same code that produced the console output, as there are no visible `input()` statements or loops in the editor window to generate the \"Enter something >>\" prompts.\n*   **Truncated Paths:** The file path in the Run console is cut off, making the full project directory path unreadable.",
+    "model": "gemini-3.1-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00620.jpg",
+    "description": "1. Visible Content\n- An integrated development environment (IDE), specifically PyCharm, displaying a file named `main.py`.\n- A code editor pane at the top showing a `try...except` block with user input and mathematical operations.\n- A terminal/run console at the bottom displaying program execution output, including a user prompt, typed input, the resulting printed error message, and the exit code.\n\n2. Python Concepts\n- Exception handling (`try` and `except` statements).\n- User input collection (`input()` function).\n- Type conversion (`int()` function).\n- Basic arithmetic addition (`+`).\n- Output printing (`print()` function).\n\n3. Visible Code\n```python\nnumber = input('Please provide a number >> ')\n\ntry:\n    print(10 + int(number))\nexcept:\n    print('That is not a valid number!')\n```\n\n4. Teaching Value\n- This frame demonstrates how to gracefully handle runtime errors, specifically preventing a program from crashing when invalid input (such as text instead of an integer) is provided for a type conversion.\n- It shows the practical interaction between input collection, attempted conversion within a `try` block, and fallback behavior within an `except` block using the terminal output as evidence (`Please provide a number >> Mario` resulting in `That is not a valid number!`).\n\n5. Limitations\n- None; all text, line numbers, and output messages in the editor and console are clearly legible.",
+    "model": "gemini-3.5-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00360.jpg",
+    "description": "1. Visible Content\nThe image shows a PyCharm integrated development environment (IDE) window. It contains a code editor pane at the top showing a file named `main.py` with line numbers and a blinking cursor on line 3. Below the editor is a Run terminal window showing previously executed output listing the names \"Luigi\", \"Mario\", and \"Toad\" highlighted in blue, followed by the message \"Process finished with exit code 0\".\n\n2. Python Concepts\n- Variable assignment (initializing the integer variable `i` to `0`).\n\n3. Visible Code\n```python\ni = 0\n```\n\n4. Loop Explanation\nNo while loop was identified.\n\n5. Teaching Value\nLearners can observe the initial step of setting up a control variable (like `i = 0`) before constructing a loop or conditional block. They can also see the relationship between code execution and the resulting output in the terminal window below.\n\n6. Limitations\nThe code editor is mostly blank except for a single assignment statement on line 1, so the broader context of what the script is intended to do is not yet visible.",
+    "model": "gemini-3.5-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00370.jpg",
+    "description": "1. Visible Content\nThe image shows a screenshot of the PyCharm Integrated Development Environment (IDE). At the top is the code editor containing a Python script named `main.py` with numbered lines from 1 to 5. Below the editor pane is a Run terminal window displaying output lines (\"Luigi\", \"Mario\", \"Toad\") and the process termination status (\"Process finished with exit code 0\").\n\n2. Python Concepts\n- Variable initialization (`i = 0`)\n- While loops (`while i < 5:`)\n- Variable incrementation/updating (`i = i + 1`)\n- Built-in output function (`print()`)\n- Program execution and terminal output\n\n3. Visible Code\n```python\ni = 0\n\nwhile i < 5:\n    i = i + 1\n    print(i)\n```\n\n4. Loop Explanation\n- **The condition:** The loop runs as long as the expression `i < 5` evaluates to True.\n- **How variables change:** The variable `i` is initialized to `0`. Inside the loop, `i` is incremented by 1 during each iteration (`i = i + 1`), and its current value is printed (`print(i)`).\n- **How the loop terminates:** The loop terminates when `i` reaches the value of 5, because the condition `5 < 5` evaluates to False.\n\n5. Teaching Value\nLearners can understand the basic structure of a `while` loop, including the necessity of initializing a loop control variable before the loop and updating that variable inside the loop body to prevent an infinite loop. They can also see how block indentation defines the scope of the loop and how the output appears sequentially in the terminal when the script is run.\n\n6. Limitations\n- The right side of the terminal path string is slightly cut off.\n- The `print()` statement on line 5 appears to be in the middle of being typed, with the cursor placed after the letter `i` and missing its closing parenthesis.",
+    "model": "gemini-3.5-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  },
+  {
+    "course_id": "PY101",
+    "video_id": "PY101_V01",
+    "source_type": "video_frame",
+    "source_file": "data/processed/video_frames/PY101_V01_frame_00380.jpg",
+    "description": "1. Visible Content\nThe image displays a code editor interface (PyCharm) containing a Python script named `main.py` in the upper pane. The lower pane contains a Run terminal showing the output of the executed program.\n\n2. Python Concepts\n- Variable initialization (`i = 0`)\n- While loop iteration (`while i < 5:`)\n- In-place variable increment (`i = i + 1`)\n- Standard output printing (`print(i)`)\n- Execution flow and loop termination\n\n3. Visible Code\n```python\ni = 0\nwhile i < 5:\n    i = i + 1\n    print(i)\n```\n\n4. Loop Explanation\n- **The condition:** The while loop condition is `i < 5`, which evaluates to True as long as the value of `i` is strictly less than 5.\n- **How variables change:** On each iteration of the loop, the variable `i` is incremented by 1 using the assignment statement `i = i + 1`.\n- **How the loop terminates:** The loop continues to run while `i` is less than 5. Once `i` reaches 5, the condition `i < 5` evaluates to False, terminating the loop execution.\n\n5. Teaching Value\nLearners can understand how to control repetition in Python using conditional loops. Specifically, it demonstrates the necessity of initializing a counter variable before the loop, updating that counter inside the loop body to prevent infinite loops, and observing how changes to the variable state dictate when the loop will finish.\n\n6. Limitations\nThe text on the far right of the terminal command line path is partially cut off, and some elements in the bottom status bar are small, though the main code, line numbers, and output values 1 through 5 are fully legible.",
+    "model": "gemini-3.5-flash-lite",
+    "analysis_status": "completed",
+    "timestamp_seconds": null,
+    "provenance": "gemini_visual_analysis"
+  }
+]
