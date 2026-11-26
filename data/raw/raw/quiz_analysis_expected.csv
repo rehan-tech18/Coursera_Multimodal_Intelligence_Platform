@@ -1,0 +1,13 @@
+﻿question_id,topic_id,attempts,incorrect_count,incorrect_rate_pct,data_provenance
+Q01,input,120,41,34.17,derived_from_synthetic_quiz_responses
+Q02,error_handling,120,61,50.83,derived_from_synthetic_quiz_responses
+Q03,while_loop,120,80,66.67,derived_from_synthetic_quiz_responses
+Q04,arithmetic,120,49,40.83,derived_from_synthetic_quiz_responses
+Q05,functions,120,17,14.17,derived_from_synthetic_quiz_responses
+Q06,functions,120,54,45.0,derived_from_synthetic_quiz_responses
+Q07,variables_types,120,40,33.33,derived_from_synthetic_quiz_responses
+Q08,for_loop,120,66,55.0,derived_from_synthetic_quiz_responses
+Q09,type_casting,120,77,64.17,derived_from_synthetic_quiz_responses
+Q10,conditionals,120,28,23.33,derived_from_synthetic_quiz_responses
+Q11,lists,120,59,49.17,derived_from_synthetic_quiz_responses
+Q12,function_calls,120,45,37.5,derived_from_synthetic_quiz_responses
